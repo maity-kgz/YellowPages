@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YellowPages</string>
+    <string name="status_text_default">Наберите URL адресс базы данных</string>
+    <string name="progress_dialog_title_downloading">Скачиваем...</string>
+    <string name="progress_dialog_title_connecting">Соединяемся...</string>
+    <string name="progress_dialog_message_prefix_downloading">Это может занять некоторое время. Подождите пока не закроется это окно. Идет скачивание и установка базы </string>
+    <string name="progress_dialog_message_prefix_connecting">Соединяемся к </string>
+    <string name="user_message_download_complete">Успешно скачали.</string>
+    <string name="user_message_download_canceled">Отменено!</string>
+    <string name="error_message_bad_url">Ошибка, ссылка не правильная!</string>
+    <string name="error_message_file_not_found">Ошибка, база данных не найдена!</string>
+    <string name="error_message_general">Ошибка при скачивании!</string>
+    <string name="about"><![CDATA[
+    <p> Version: <b>YellowPages 0.3v</b>  </p>
+    <p> Developer: <b>Tilek J.Maitykov</b>  </p>
+    <p> email: <b>maity.kgz@gmail.com </b> </p>
+    <p>Based on: <b>www.yellowpages.akipress.kg</b></p>
+    ]]>
+    </string>
+    <string name="assistents">Assistents: Chyngyz Usenbaev, Jyldyz Oskonbaeva. </string>
+
+    <string name="changeLog"><![CDATA[
+    <p><b>ChangeLog</b></p>
+        <i>
+        <p> 0.1v Dummy version % ))) </p>
+        <p> 0.2v Download pre-exist DB from internet </p>
+        <p> 0.3v Regex clean and call ability </p>
+        </i>
+
+
+ ]]> </string>
+</resources>

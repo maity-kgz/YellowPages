@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#dc6800"
+            android:textSize="15dip"
+            android:textStyle="bold"
+            android:paddingTop="1dip"
+            android:paddingBottom="1dip" />
+
+
+    <TextView
+        android:id="@+id/phone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#acacac"
+        android:textSize="12dip"
+        android:paddingBottom="2dip">
+    </TextView>
+    <TextView
+            android:id="@+id/tag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#acacac"
+            android:textStyle="bold"
+            android:gravity="left" android:textSize="11dip">
+    </TextView>
+    <TextView
+                android:id="@+id/address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#1b921f"
+                android:textSize="11dip"
+                android:textStyle="bold"
+                android:paddingTop="0dip"
+                android:paddingBottom="0dip" android:layout_marginLeft="5dip"/>
+
+		<!-- Description label -->
+    <!-- Linear layout for cost and price Cost: Rs.100 -->
+
+    <!-- Price Label -->
+
+
+</LinearLayout>
